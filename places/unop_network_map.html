@@ -1,0 +1,153 @@
+<!DOCTYPE html >
+ 
+<style type="text/css">
+                        html, body {
+                            height: 100%;
+                            width: 100%;
+                            padding: 0;
+                            margin: 0;
+                        }
+                        .labels {
+                            color: black;
+                            background-color: white;
+                            font-family: "Lucida Grande", "Arial", sans-serif;
+                    font-size: 10px;
+                            text-align: center;
+                    width: 45px;
+                            border: 0 solid black;
+                            white-space: nowrap;
+                        }
+                    </style>
+ 
+                    <html>
+                    <head>
+                    <meta name="viewport" content="initial-scale=1.0, user-scalable=yes" />
+                    <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+                    <title>Network</title>
+                    <xml id="myxml"><marker name = "26_BLUE BOTTLE COFFEE" lat = "37.77620" lng = "-122.42332" col = "red"/>
+<marker name = "31_BROWN SUGAR KITCHEN" lat = "37.82033" lng = "-122.28880" col = "red"/>
+<marker name = "38_CHEESE BOARD PIZZA" lat = "37.87987" lng = "-122.26948" col = "red"/>
+<marker name = "132_REDWOOD REGIONAL PARK" lat = "37.81387" lng = "-122.16609" col = "red"/>
+<marker name = "142_STABLE CAFE" lat = "37.76324" lng = "-122.41548" col = "red"/>
+<marker name = "156_THE SLANTED DOOR" lat = "37.79619" lng = "-122.39404" col = "red"/>
+<line latfrom = "37.77620" longfrom = "-122.42332" latto = "37.82033" longto = "-122.28880"/>
+<line latfrom = "37.77620" longfrom = "-122.42332" latto = "37.87987" longto = "-122.26948"/>
+<line latfrom = "37.77620" longfrom = "-122.42332" latto = "37.81387" longto = "-122.16609"/>
+<line latfrom = "37.77620" longfrom = "-122.42332" latto = "37.76324" longto = "-122.41548"/>
+<line latfrom = "37.77620" longfrom = "-122.42332" latto = "37.79619" longto = "-122.39404"/>
+<line latfrom = "37.82033" longfrom = "-122.28880" latto = "37.77620" longto = "-122.42332"/>
+<line latfrom = "37.82033" longfrom = "-122.28880" latto = "37.87987" longto = "-122.26948"/>
+<line latfrom = "37.82033" longfrom = "-122.28880" latto = "37.81387" longto = "-122.16609"/>
+<line latfrom = "37.82033" longfrom = "-122.28880" latto = "37.76324" longto = "-122.41548"/>
+<line latfrom = "37.82033" longfrom = "-122.28880" latto = "37.79619" longto = "-122.39404"/>
+<line latfrom = "37.87987" longfrom = "-122.26948" latto = "37.77620" longto = "-122.42332"/>
+<line latfrom = "37.87987" longfrom = "-122.26948" latto = "37.82033" longto = "-122.28880"/>
+<line latfrom = "37.87987" longfrom = "-122.26948" latto = "37.81387" longto = "-122.16609"/>
+<line latfrom = "37.87987" longfrom = "-122.26948" latto = "37.76324" longto = "-122.41548"/>
+<line latfrom = "37.87987" longfrom = "-122.26948" latto = "37.79619" longto = "-122.39404"/>
+<line latfrom = "37.81387" longfrom = "-122.16609" latto = "37.77620" longto = "-122.42332"/>
+<line latfrom = "37.81387" longfrom = "-122.16609" latto = "37.82033" longto = "-122.28880"/>
+<line latfrom = "37.81387" longfrom = "-122.16609" latto = "37.87987" longto = "-122.26948"/>
+<line latfrom = "37.81387" longfrom = "-122.16609" latto = "37.76324" longto = "-122.41548"/>
+<line latfrom = "37.81387" longfrom = "-122.16609" latto = "37.79619" longto = "-122.39404"/>
+<line latfrom = "37.76324" longfrom = "-122.41548" latto = "37.77620" longto = "-122.42332"/>
+<line latfrom = "37.76324" longfrom = "-122.41548" latto = "37.82033" longto = "-122.28880"/>
+<line latfrom = "37.76324" longfrom = "-122.41548" latto = "37.87987" longto = "-122.26948"/>
+<line latfrom = "37.76324" longfrom = "-122.41548" latto = "37.81387" longto = "-122.16609"/>
+<line latfrom = "37.76324" longfrom = "-122.41548" latto = "37.79619" longto = "-122.39404"/>
+<line latfrom = "37.79619" longfrom = "-122.39404" latto = "37.77620" longto = "-122.42332"/>
+<line latfrom = "37.79619" longfrom = "-122.39404" latto = "37.82033" longto = "-122.28880"/>
+<line latfrom = "37.79619" longfrom = "-122.39404" latto = "37.87987" longto = "-122.26948"/>
+<line latfrom = "37.79619" longfrom = "-122.39404" latto = "37.81387" longto = "-122.16609"/>
+<line latfrom = "37.79619" longfrom = "-122.39404" latto = "37.76324" longto = "-122.41548"/>
+
+            </xml>
+            <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?&libraries=geometry"></script>
+            <script type="text/javascript" src="http://google-maps-utility-library-v3.googlecode.com/svn/trunk/markerwithlabel/src/markerwithlabel.js"></script>
+            <script>
+            var XML = document.getElementById("myxml");
+            if(XML.documentElement == null)
+            XML.documentElement = XML.firstChild;
+            var MARKERS = XML.getElementsByTagName("marker");
+            var LINES = XML.getElementsByTagName("line");
+            function initialize() {
+                 var mapOptions = {
+                                center: new google.maps.LatLng(37.76324,-122.41548),
+                                zoom: 12,
+                                styles:
+                                [
+                                {"featureType":"administrative","stylers":[{ "saturation":-80},{"visibility":"off"}]},
+                                {"featureType":"landscape.natural","elementType":"geometry","stylers":[{"color":"#d0e3b4"}]},
+                                {"featureType":"landscape.natural.terrain","elementType":"geometry","stylers":[{"visibility":"off"}]},
+                                {"featureType":"poi","elementType":"labels","stylers":[{"visibility":"on"}]},
+                                {"featureType":"poi.business","elementType":"all","stylers":[{"visibility":"off"}]},
+                                {"featureType":"poi.medical","elementType":"geometry","stylers":[{"color":"#fbd3da"}]},
+                                {"featureType":"poi.park","elementType":"geometry","stylers":[{"color":"#bde6ab"}]},
+                                {"featureType":"road","elementType":"geometry.stroke","stylers":[{"visibility":"off"}]},
+                                {"featureType":"road","elementType":"labels","stylers":[{"visibility":"off"}]},
+                                {"featureType":"road.highway","elementType":"geometry.fill","stylers":[{"color":"#ffe15f"}]},
+                                {"featureType":"road.highway","elementType":"geometry.stroke","stylers":[{"color":"#efd151"}]},
+                                {"featureType":"road.arterial","elementType":"geometry.fill","stylers":[{"color":"#ffffff"}]},
+                                {"featureType":"road.local","elementType":"geometry.fill","stylers":[{"color":"black"}]},
+                                {"featureType":"transit","stylers":[{"visibility":"off"}]},
+                                {"featureType":"water","elementType":"geometry","stylers":[{"color":"#a2daf2"}]}
+                                ]
+                        };
+                var map = new google.maps.Map(document.getElementById('map'),
+                    mapOptions);
+                var bounds = new google.maps.LatLngBounds();
+                for (var i = 0; i < MARKERS.length; i++) {
+                    var name = MARKERS[i].getAttribute("name");
+                    var point_i = new google.maps.LatLng(
+                        parseFloat(MARKERS[i].getAttribute("lat")),
+                        parseFloat(MARKERS[i].getAttribute("lng")));
+                    var col =  MARKERS[i].getAttribute("col")
+                    if (col == "green") {
+                        var ic = "https://storage.googleapis.com/support-kms-prod/SNP_2752129_en_v0"
+                    } else {
+                        var ic = "https://storage.googleapis.com/support-kms-prod/SNP_2752125_en_v0"
+                    }
+                    var marker = new MarkerWithLabel({
+                        position: point_i,
+                        map: map,
+                        icon: ic,
+                        //labelContent: name,
+                        labelAnchor: new google.maps.Point(22, 0),
+                        labelClass: "labels", // the CSS class for the label
+                        labelStyle: {opacity: 0.75},
+                    })
+                    bounds.extend(point_i);
+                };          
+            for (var i = 0; i < LINES.length; i++) {
+                var point_a = new google.maps.LatLng(
+                        parseFloat(LINES[i].getAttribute("latfrom")),
+                        parseFloat(LINES[i].getAttribute("longfrom")));
+                var point_b = new google.maps.LatLng(
+                        parseFloat(LINES[i].getAttribute("latto")),
+                        parseFloat(LINES[i].getAttribute("longto")));
+                var flightPlanCoordinates = [
+                    point_a,
+                    point_b
+                ];
+                var flightPath = new google.maps.Polyline({
+                    path: flightPlanCoordinates,
+                    geodesic: true,
+                    strokeColor: 'black',
+                    strokeOpacity: 1,
+                    strokeWeight: 1
+                });
+                flightPath.setMap(map);
+            };
+            }
+            google.maps.event.addDomListener(window, 'load', initialize);
+            </script>
+            </head>
+            <body>
+            <center>
+ 
+<div id="map" style="width:95%; height:1200px;"></div>
+ 
+            <center>
+            </body>
+            </html>       
+    

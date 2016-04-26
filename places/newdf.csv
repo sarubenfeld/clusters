@@ -1,0 +1,174 @@
+	name	place_id	types	lat	long
+0	1300 On Fillmore	ChIJZbMizLuAhYARKiMObMwPGfc	[night_club, restaurant, food, bar, point_of_interest, establishment]	37.7816586	-122.4319167
+1	83 Proof	ChIJr29cEGOAhYARGODjlpUST5A	[bar, restaurant, food, point_of_interest, establishment]	37.7900567	-122.3977007
+2	A'Gaci	ChIJVSjv47dmhYARFJi3vYC-QTg	[shoe_store, clothing_store, store, point_of_interest, establishment]	37.96819230000001	-122.0607534
+3	Actual Cafe	ChIJJWkwLWF-hYARMvBio7rIkmA	[meal_takeaway, cafe, store, restaurant, food, point_of_interest, establishment]	37.846841	-122.2847402
+4	Alana's Cafe	ChIJd2ozDayjj4ARRfACIFI2LuY	[cafe, restaurant, food, point_of_interest, establishment]	37.483561	-122.226574
+5	Amelie	ChIJ88G-quuAhYAR7bj0Yhr8gwI	[liquor_store, store, restaurant, food, bar, point_of_interest, establishment]	37.7930855	-122.4210271
+6	Angeline's Louisiana Kitchen	ChIJh_wjBJ1-hYARK2XCkZUkbg0	[restaurant, meal_takeaway, food, point_of_interest, establishment]	37.8682329	-122.2674992
+7	Anthropologie	ChIJt0Qv0tx-hYARkOFQsWTWePw	[home_goods_store, clothing_store, store, point_of_interest, establishment]	37.86887499999999	-122.299665
+8	Aquatic Park	ChIJQ09tqOGAhYARinfjX2EOfaM	[park, amusement_park, point_of_interest, establishment]	37.8078379	-122.424275
+9	Arlequin Cafe & Food-To-Go	ChIJr7uwv5iAhYAR4OZfo28tCME	[cafe, bar, restaurant, food, point_of_interest, establishment]	37.777121	-122.422774
+10	Au Coquelet	ChIJU4rlzp5-hYARhtqduurlWiE	[cafe, bar, restaurant, food, store, point_of_interest, establishment]	37.87163049999999	-122.270539
+11	Auntie April's Chicken, Waffles, & Soul Food Restaurant	ChIJSyGZhgV_j4AR8gsKMwaE38c	[restaurant, food, point_of_interest, establishment]	37.7361328	-122.3904508
+12	Avatar's	ChIJjdERDQWFhYARvpaghgB3HQ4	[cafe, restaurant, food, point_of_interest, establishment]	37.8685356	-122.5017978
+13	Avenue	ChIJhw93A9hmhYARPsNerJ_46nk	[clothing_store, store, point_of_interest, establishment]	37.9748664	-122.0392575
+14	Aziza	ChIJb-KW6Q-HhYAR4NlucuMP_HE	[bar, restaurant, food, point_of_interest, establishment]	37.7804422	-122.4817328
+15	Baby Gap	ChIJrcbDd0GHj4AROcWbRC1JjkY	[clothing_store, store, point_of_interest, establishment]	37.8104576	-122.2456153
+16	Balboa Cafe	ChIJYXn3mdCAhYAR97Hkb3wD660	[cafe, bar, restaurant, food, point_of_interest, establishment]	37.7988162	-122.4361023
+17	Bar Agricole	ChIJCSdjKSZ-j4ARY5HrLSxbatQ	[bar, restaurant, food, point_of_interest, establishment]	37.77131990000001	-122.4131368
+18	BCBG	ChIJMVeA3o6AhYARmEbQ6kLfKtM	[clothing_store, store, point_of_interest, establishment]	37.78748820000001	-122.408603
+19	bebe Bay Street	ChIJx1wl3UN-hYARYu9AJY90uUA	[clothing_store, store, point_of_interest, establishment]	37.8354084	-122.2919952
+20	Bedwell Bayfront Park	ChIJKd3b4cy8j4ARoYmzezJVPko	[park, point_of_interest, establishment]	37.49258309999999	-122.1731859
+21	Beehive Clothing	ChIJF4kIsLmHj4ARts2huZUErJ0	[clothing_store, store, point_of_interest, establishment]	37.8121035	-122.2007004
+22	Bender's Bar & Grill	ChIJj1AKlzt-j4ARCHHWunlrEcw	[bar, restaurant, food, point_of_interest, establishment]	37.7601817	-122.4173055
+23	Benu	ChIJSToWqn2AhYAR1CuH2iGMvuo	[restaurant, food, point_of_interest, establishment]	37.78545200000001	-122.399036
+24	Bill's Cafe	ChIJ9VUClAvLj4ARHWChPIsYVZA	[cafe, bar, restaurant, food, point_of_interest, establishment]	37.3430508	-121.9283595
+25	Bix	ChIJDZ0ZOPWAhYARkZFd-uCioMs	[night_club, bar, restaurant, food, point_of_interest, establishment]	37.79687120000001	-122.4029298
+26	Blue Bottle Coffee	ChIJSy28upiAhYARkoxpzFnW7b4	[cafe, food, store, point_of_interest, establishment]	37.776196	-122.423316
+27	Blush! Wine Bar	ChIJpyuHNRt-j4ARi-WLHR3Fsto	[restaurant, food, bar, point_of_interest, establishment]	37.7612941	-122.435208
+28	Boulevard	ChIJF-zbSmSAhYARvOafjdCRszQ	[restaurant, food, point_of_interest, establishment]	37.79332	-122.392761
+29	Brazil Cafe	ChIJMcOsP55-hYARHTQro0WwlGY	[meal_takeaway, restaurant, food, point_of_interest, establishment]	37.8724932	-122.2667843
+30	Brenda's French Soul Food	ChIJZ9s5SJeAhYARIX3Fxl6oj6c	[restaurant, food, point_of_interest, establishment]	37.78291480000001	-122.4189456
+31	Brown Sugar Kitchen	ChIJY5-blyJ-hYARrkBrUbAzT94	[restaurant, food, point_of_interest, establishment]	37.8203279	-122.2887968
+32	Buena Vista Park	ChIJc-fv16uAhYARQNxL3WZRYHw	[park, natural_feature, point_of_interest, establishment]	37.7682033	-122.4417696
+33	Cafe Venetia	ChIJkb6X_zi7j4ARKwExaaqqq2A	[cafe, store, bar, food, point_of_interest, establishment]	37.4474732	-122.1603069
+34	Cavallo Point Lodge	ChIJi3J-pCWEhYARxYRB_BqquOA	[spa, health, lodging, point_of_interest, establishment]	37.8376611	-122.4793772
+35	César Chávez Park	ChIJFTWqXi5_hYARimk-cK6Tl_g	[park, point_of_interest, establishment]	37.87162139999999	-122.3204121
+36	Chapeau!	ChIJs0HxgDmHhYARAoIYlNJMScA	[bar, restaurant, food, point_of_interest, establishment]	37.7833381	-122.4606898
+37	Charlotte Russe	ChIJ0aBPHbhmhYAR7gpNiGXs34Q	[shoe_store, clothing_store, jewelry_store, store, point_of_interest, establishment]	37.968159	-122.060617
+38	Cheese Board Pizza	ChIJr5hMNKF-hYARxmkk-5t0SzE	[restaurant, food, point_of_interest, establishment]	37.87987229999999	-122.2694794
+39	Chez Panisse	ChIJcYtcJaF-hYAR-VzrwZpQY0E	[restaurant, cafe, food, bar, point_of_interest, establishment]	37.8795896	-122.2689645
+40	Cigar Bar & Grill	ChIJWdokI_WAhYARtk-RF_um-ks	[bar, restaurant, food, point_of_interest, establishment]	37.7970705	-122.4033862
+41	Commonwealth	ChIJoyoBvjx-j4ARNUWlMkjGUL4	[restaurant, food, point_of_interest, establishment]	37.7613187	-122.41964
+42	Corona Heights Park	ChIJX3DWQgJ-j4ARxWqSTDOy_CU	[park, point_of_interest, establishment]	37.7653122	-122.4385846
+43	Cotogna	ChIJA0YvGPWAhYAReXmaDTTdWzU	[restaurant, food, point_of_interest, establishment]	37.7974446	-122.4035755
+44	Coupa Cafe	ChIJY5UIijm7j4ARPkLgY0DXJuI	[cafe, restaurant, food, store, point_of_interest, establishment]	37.44468	-122.1615308
+45	Coyote Hills Regional Park	ChIJRT7ghwq-j4ARQ68X9Fox0kE	[park, point_of_interest, establishment]	37.5532826	-122.0854353
+46	Crazy 8	ChIJRdEDiYx7j4ARg3wj4mp3NQs	[clothing_store, store, point_of_interest, establishment]	37.6722355	-122.4707428
+47	Creekside Inn	ChIJk-81NEQzjoARbseaaQj2g_E	[lodging, point_of_interest, establishment]	37.4186982	-122.1352589
+48	Crossroads Cafe	ChIJD6D7lXeAhYARpItz2DTPkaU	[cafe, food, store, point_of_interest, establishment]	37.78315500000001	-122.3890425
+49	Cuesta Park	ChIJ8QmpntO2j4ARX1iGIbLixxY	[park, point_of_interest, establishment]	37.37193070000001	-122.0795631
+50	Dottie's True Blue Cafe	ChIJXbxV1JGAhYARPXnXlHU1eoY	[cafe, restaurant, food, point_of_interest, establishment]	37.78169899999999	-122.410004
+51	Eagle Cafe	ChIJHSGzi_yAhYARy4aO4ROvmmk	[cafe, restaurant, food, point_of_interest, establishment]	37.8087767	-122.4103166
+52	Econo Lodge	ChIJq0-3oE2Sj4ARLTB1NpnLN7Q	[lodging, point_of_interest, establishment]	37.6961445	-122.051321
+53	Epicenter Cafe	ChIJnSovWn6AhYARBuVCcKrP2Ts	[cafe, store, restaurant, food, point_of_interest, establishment]	37.7814906	-122.3989747
+54	Express - Hillsdale	ChIJdYut3AKfj4ARNudMIICsMFc	[clothing_store, store, point_of_interest, establishment]	37.5370996	-122.3002221
+55	Famous Food Restaurant	ChIJCxug4Ay2j4AROJr_grvgSN4	[cafe, restaurant, food, point_of_interest, establishment]	37.36620440000001	-122.0162011
+56	Farallon	ChIJJ0yB8o6AhYAR0HIFmCURzGc	[bar, restaurant, food, point_of_interest, establishment]	37.7883431	-122.4093377
+57	farmerbrown	ChIJv-klmoWAhYAReflECbnTyRE	[bar, restaurant, food, point_of_interest, establishment]	37.78353729999999	-122.4093006
+58	Fast Food Francais	ChIJP6uDl1GEhYAR0tRfOMZkVTU	[restaurant, food, point_of_interest, establishment]	37.8583266	-122.4851063
+59	Flea Street	ChIJCZfXbumkj4AR1p2me3o8urg	[restaurant, food, point_of_interest, establishment]	37.431814	-122.2011261
+60	Flour + Water	ChIJDVaCXjd-j4AR4AOGUS0kLGc	[restaurant, food, point_of_interest, establishment]	37.7589424	-122.4122683
+61	Free People	ChIJFV0G_sFhhYARc_HnIHuNBLA	[clothing_store, store, point_of_interest, establishment]	37.896337	-122.0608903
+62	Gialina	ChIJIZsOXmN-j4ARtj0s3rJmTMk	[restaurant, food, point_of_interest, establishment]	37.7339997	-122.434249
+63	Glen Canyon Park	ChIJ9SlCdnZ-j4AR86EzE6c9NY8	[park, point_of_interest, establishment]	37.74155880000001	-122.4431851
+64	Golden Boy Pizza	ChIJmx3iW_GAhYARrlV9H2vyE-E	[meal_takeaway, restaurant, food, point_of_interest, establishment]	37.79976689999999	-122.4080992
+65	Golden Gate Park	ChIJY_dFYHKHhYARMKc772iLvnE	[park, point_of_interest, establishment]	37.7694208	-122.4862138
+66	Grand View Park	ChIJFS16LmCHhYAR9-5CGavbV2k	[park, point_of_interest, establishment]	37.7562628	-122.4718452
+67	Greens Restaurant	ChIJceeAXt6AhYARur0rWLmvt1A	[restaurant, food, point_of_interest, establishment]	37.8067965	-122.4321689
+68	Grove Yerba Buena	ChIJiZyN7IeAhYARnCn-G6GH73Q	[restaurant, food, point_of_interest, establishment]	37.7865472	-122.4019763
+69	Guerilla Cafe	ChIJoe7XC6F-hYARYIiq13W7xeM	[cafe, store, restaurant, food, point_of_interest, establishment]	37.877911	-122.269297
+70	Gymboree	ChIJP5NLubt9j4ARJTpn02F3beg	[clothing_store, store, point_of_interest, establishment]	37.7281544	-122.4768161
+71	H&M	ChIJ0aBPHbhmhYARe3byyAvdLl0	[clothing_store, store, point_of_interest, establishment]	37.9686752	-122.0612769
+72	Half Moon Bay Lodge	ChIJnfXzUXILj4ARu-Rak_8q0ow	[lodging, point_of_interest, establishment]	37.43320900000001	-122.4282018
+73	Hard Knox Cafe and San Francisco Soul Food Restaurant	ChIJOz17Ibp_j4ARolRA3CEhntA	[restaurant, cafe, food, point_of_interest, establishment]	37.7575286	-122.3885092
+74	Hog Island Oyster Co	ChIJWTGPjmaAhYARgXpiJ-aACYM	[bar, restaurant, food, point_of_interest, establishment]	37.7959142	-122.3934992
+75	Howie's Artisan Pizza	ChIJHz4XFiW7j4AR4OCRJ5FPWnQ	[restaurant, food, point_of_interest, establishment]	37.438029	-122.160035
+76	Huddart Park	ChIJbxHK_i-hj4ARsuIi3YGxk7E	[park, point_of_interest, establishment]	37.43601170000001	-122.2992378
+77	IHG Army Hotels Camp Parks	ChIJSfJgPSDsj4ARVapHam2QY0k	[lodging, point_of_interest, establishment]	37.72046589999999	-121.9030416
+78	Inn at the Presidio	ChIJ24LodCiHhYAR3sr-G5wBU7k	[lodging, point_of_interest, establishment]	37.7971118	-122.4578252
+79	Inverness Valley Inn	ChIJJ1X-fL7PhYAR4qr4Encgco4	[lodging, point_of_interest, establishment]	38.1087844	-122.8707882
+80	Janie and Jack	ChIJ6zMe3oWAhYARFmGR2bMt7qE	[clothing_store, store, point_of_interest, establishment]	37.7840744	-122.4068518
+81	John McLaren Park	ChIJ67-gn-5-j4ARcyjzTqE8ZdU	[park, point_of_interest, establishment]	37.719309	-122.4193742
+82	Just For You Cafe	ChIJL0eR87l_j4ARzVaL9P2vdDc	[cafe, restaurant, food, point_of_interest, establishment]	37.758087	-122.3888376
+83	K&G Fashion Superstore	ChIJJRy8wclJ34cRVGNTUXpjcQU	[clothing_store, store, point_of_interest, establishment]	37.7750366	-122.229411
+84	Kasa Indian Eatery	ChIJA1DNAxt-j4ARrzazmCpjz0g	[meal_delivery, restaurant, food, point_of_interest, establishment]	37.7609029	-122.4329164
+85	Kelly Park	ChIJq8lDuLO8j4AR0OQehFz2fzk	[park, point_of_interest, establishment]	37.4785962	-122.1680456
+86	Kennedy Park	ChIJQdC8kQaRj4ARO9iBDnjPSpE	[amusement_park, park, point_of_interest, establishment]	37.6680714	-122.1213757
+87	Kiss Seafood	ChIJv1LfF7-AhYARYNqV_bSwHPc	[restaurant, food, point_of_interest, establishment]	37.78687	-122.4282083
+88	L'Ardoise	ChIJ59pRbR1-j4ARKfQUFqmo33o	[bar, restaurant, food, point_of_interest, establishment]	37.7665713	-122.433042
+89	La Costanera	ChIJB9aNIrZxj4ARI-lPUws_UqE	[bar, restaurant, food, point_of_interest, establishment]	37.5461223	-122.5140789
+90	La Folie	ChIJZZ2-ReiAhYARtLafFKui04g	[restaurant, food, point_of_interest, establishment]	37.79814400000001	-122.4220082
+91	Lafayette Park	ChIJC3O0GsGAhYAR4JK4ut4xPsM	[park, point_of_interest, establishment]	37.7916146	-122.4276133
+92	Lena's Soul Food Cafe	ChIJSVfXqWaGj4ARTqDK1y_D_ls	[cafe, restaurant, food, point_of_interest, establishment]	37.7728843	-122.2134958
+93	Lillie Mae's House of Soul Food	ChIJSXyr97rLj4AR4kaVdvnP5g4	[bar, restaurant, food, point_of_interest, establishment]	37.3572305	-121.9340167
+94	Lingonberry Farm	ChIJkZe7ReTFhYARvpnBCO-CLZI	[lodging, point_of_interest, establishment]	38.0843789	-122.8097093
+95	Little Star Pizza	ChIJzf0lTbCAhYARqz-tqaIyJaY	[restaurant, food, point_of_interest, establishment]	37.7775405	-122.4380149
+96	Lodging Innovations	ChIJz6YKzrTLj4ARbLEfUsRxK-U	[lodging, point_of_interest, establishment]	37.35751980000001	-121.94697
+97	Loft	ChIJ-72fAGGAhYARQncxvLwE80Q	[clothing_store, store, point_of_interest, establishment]	37.7948513	-122.3964142
+98	Madras Cafe	ChIJlbIO1Oi2j4ARp17Uf24xkHk	[restaurant, food, point_of_interest, establishment]	37.3743938	-122.0551927
+99	Manka's Inverness Lodge	ChIJMy6lqJzPhYARExzvWXxEyQA	[lodging, point_of_interest, establishment]	38.1015277	-122.8592384
+100	Marin Lodge	ChIJ8z23CuiZhYARb_QVrS8Ui_E	[lodging, point_of_interest, establishment]	37.98531759999999	-122.5259834
+101	Mario's Bohemian Cigar Store Cafe	ChIJr6IFZPGAhYAR5e3y0GGJp8w	[cafe, restaurant, food, point_of_interest, establishment]	37.8002706	-122.4098789
+102	Martuni's	ChIJf_3ZwZ-AhYARCTZKQkYvMDw	[bar, restaurant, food, point_of_interest, establishment]	37.7721084	-122.4228045
+103	Matching Half Cafe	ChIJraGpLLKAhYARsWqJ-sBBQhM	[cafe, restaurant, store, food, bar, point_of_interest, establishment]	37.77723090000001	-122.4414266
+104	Menlo Park Maintenance	ChIJLUokOk27j4AReFpr11KdA0w	[park, point_of_interest, establishment]	37.4541985	-122.1734551
+105	Mercury Cafe	ChIJZ_Ak36GAhYARaz2iDa2Cygs	[cafe, restaurant, food, point_of_interest, establishment]	37.7740028	-122.4243743
+106	Michael Mina	ChIJX5_Yk2GAhYARaRwC-z9Xig8	[meal_delivery, bar, restaurant, food, point_of_interest, establishment]	37.7934875	-122.3996046
+107	Millennium	ChIJ6XYD2ZGAhYARhDX0sVfc6Cc	[bar, restaurant, food, point_of_interest, establishment]	37.8474956	-122.2518681
+108	Mission Beach Cafe	ChIJbyF-eB9-j4AR5RennmEWsX0	[cafe, restaurant, food, point_of_interest, establishment]	37.7681173	-122.4247141
+109	Mojo Bicycle Cafe	ChIJzfp706-AhYARn_qk2m_-XmY	[cafe, bar, food, point_of_interest, establishment]	37.7755474	-122.4381149
+110	Motel Inverness	ChIJ5_Z34Y_FhYAR2vhMWkWAiVs	[lodging, point_of_interest, establishment]	38.08784289999999	-122.8410002
+111	Mozzeria	ChIJU296vBh-j4ARpjagql8QEPY	[bar, restaurant, food, point_of_interest, establishment]	37.7649216	-122.4249012
+112	Napoletana Pizzeria	ChIJg1ayR7iwj4ARBsM83DizgKA	[restaurant, food, point_of_interest, establishment]	37.3942396	-122.0967862
+113	Navy Lodge	ChIJczNmRkO3j4ARSoz3BPBebZw	[lodging, point_of_interest, establishment]	37.4105662	-122.065553
+114	Nealon Park	ChIJcxADqbakj4ARF55yRHFLJVY	[park, point_of_interest, establishment]	37.4481067	-122.1805701
+115	Nellie's Soulfood Restaurant & Bar	ChIJ-x__l5eAj4ARe3smmUL56hU	[bar, restaurant, food, point_of_interest, establishment]	37.8010033	-122.2896659
+116	Nopa	ChIJ_dQjyK-AhYARBc9DFlxcclg	[restaurant, food, point_of_interest, establishment]	37.7748936	-122.4374944
+117	Old Navy	ChIJaazJO6WGj4ARoKglFd2txrM	[clothing_store, store, point_of_interest, establishment]	37.7571264	-122.2524387
+118	Oliveto Restaurant	ChIJ_af28sJ9hYARSjYUdP5GYTY	[cafe, restaurant, food, bar, point_of_interest, establishment]	37.8438624	-122.2518558
+119	Osprey Peak Bed & Breakfast	ChIJ9Uqn95XPhYARM1MqcCcsum8	[lodging, point_of_interest, establishment]	38.10618900000001	-122.8712282
+120	Papaya Clothing	ChIJqzFQHbhmhYARro94wRD6fDE	[shoe_store, clothing_store, store, point_of_interest, establishment]	37.9675449	-122.060406
+121	Patxi's Pizza Palo Alto	ChIJdRhjXze7j4ARV5jApcV4IRw	[bar, restaurant, food, point_of_interest, establishment]	37.44517630000001	-122.1632455
+122	Peña Pachamama	ChIJD6YgmPGAhYAR8ipNHys1DM8	[bar, restaurant, food, point_of_interest, establishment]	37.7997707	-122.410553
+123	Pican Restaurant	ChIJO9xQ2ayAj4ARXWuEJPi_MRc	[night_club, bar, restaurant, food, point_of_interest, establishment]	37.8120742	-122.2666748
+124	Pizzaiolo	ChIJYdYrAeF9hYARXSv17bySojU	[meal_takeaway, bar, restaurant, food, point_of_interest, establishment]	37.8365993	-122.2622135
+125	Pizzetta 211	ChIJQXnZ_ASHhYARiIl0VPpsEQs	[meal_takeaway, restaurant, food, point_of_interest, establishment]	37.7837045	-122.483052
+126	Pluto's	ChIJb_Dl_Di7j4ARxK1rSZ4Orbk	[restaurant, food, point_of_interest, establishment]	37.4479782	-122.159285
+127	Point Reyes Schoolhouse Lodging	ChIJUZpaGX7GhYARhjoA6Dj5cXM	[lodging, point_of_interest, establishment]	38.0717013	-122.8035327
+128	Point Reyes Seashore Lodge	ChIJZUp-4J8HjoARLgMqQJv936o	[lodging, point_of_interest, establishment]	38.0408283	-122.7884277
+129	Press Club	ChIJ5VjkK4aAhYAR4JdQs3IUjQA	[food, bar, point_of_interest, establishment]	37.78612979999999	-122.4043144
+130	Quince	ChIJ8biHnb-AhYARSpU8MDPb5vs	[restaurant, food, point_of_interest, establishment]	37.797515	-122.4033559
+131	Rainbow Pizza	ChIJJQ0wDMifj4ARJH4RAlBBVkQ	[restaurant, food, point_of_interest, establishment]	37.52125319999999	-122.3373596
+132	Redwood Regional Park	ChIJQRWV0WKIj4AREtwLqNxJxs4	[park, point_of_interest, establishment]	37.8138747	-122.1660901
+133	Restaurant Gary Danko	ChIJq342JeGAhYARwdtH9tlX7gg	[restaurant, food, point_of_interest, establishment]	37.8058724	-122.4206313
+134	Revolution Cafe	ChIJsfQS4D5-j4AREe1kqXnitHY	[cafe, night_club, bar, restaurant, food, store, point_of_interest, establishment]	37.7555012	-122.4197502
+135	Rickhouse	ChIJd7ebnImAhYARhr91iINx01g	[bar, night_club, food, point_of_interest, establishment]	37.7904967	-122.4038635
+136	Saturn Cafe	ChIJ7RuSj51-hYAR92XYj0iOPx4	[restaurant, food, point_of_interest, establishment]	37.8697714	-122.2660044
+137	Scend's Restaurant	ChIJhalipRF-hYARBiJntQ-uIRM	[restaurant, food, point_of_interest, establishment]	37.8276999	-122.2790617
+138	Sears Fine Food	ChIJlW39lY6AhYAR-kYSJfvNY6A	[store, bar, restaurant, food, point_of_interest, establishment]	37.78881279999999	-122.4086975
+139	Souley Vegan	ChIJ6Std_beAj4ARWpiH_QbONe8	[restaurant, food, point_of_interest, establishment]	37.7970198	-122.2760883
+140	Souls Restaurant	ChIJt5_ZSQaGj4ARFoCQj0jMxww	[restaurant, food, point_of_interest, establishment]	37.7705775	-122.1843916
+141	South Park Cafe	ChIJU90Z6HiAhYARqIREroX-Sww	[cafe, bar, restaurant, food, point_of_interest, establishment]	37.78160800000001	-122.394394
+142	Stable Cafe	ChIJDS_j2Tp-j4ARx1SqQlnrP4U	[cafe, meal_takeaway, restaurant, food, store, point_of_interest, establishment]	37.76323670000001	-122.4154832
+143	State Bird Provisions	ChIJQ7kGpLmAhYARKeCe2pDobWk	[restaurant, food, point_of_interest, establishment]	37.7837301	-122.4329552
+144	Stephanos Soul Food Restaurant	ChIJeeTuHFVzhYARoFmbo5JHxfk	[bar, restaurant, food, point_of_interest, establishment]	38.122887	-122.2626963
+145	Table Café	ChIJjwNlLLuQhYARALt0FVHdvaY	[restaurant, food, point_of_interest, establishment]	37.9479772	-122.5492304
+146	Terun	ChIJtXQ38-W6j4AR44dFBS3v120	[restaurant, food, bar, point_of_interest, establishment]	37.4259676	-122.1454665
+147	Thai Cafe Restaurant	ChIJufcwKCXJj4AR2udyrSEul7E	[restaurant, food, point_of_interest, establishment]	37.4191397	-121.9159796
+148	The Black Heron® Inn	ChIJza7d2dvFhYARs7mytVrs3KQ	[lodging, point_of_interest, establishment]	38.08214110000001	-122.8149209
+149	The Broken Record	ChIJEVRUIJp-j4ARb43ptfnaz_w	[bar, restaurant, food, point_of_interest, establishment]	37.7143118	-122.4369885
+150	The Front Porch	ChIJn8Ixw0J-j4ARb073TlyhmZw	[bar, restaurant, food, point_of_interest, establishment]	37.7438175	-122.4220131
+151	The Hidden Vine	ChIJs7XIGo6AhYAR61UlzRqmdb0	[food, bar, point_of_interest, establishment]	37.7955621	-122.4007542
+152	The Limited	ChIJQfTev3Tsj4AR6B-IcgRfR8s	[clothing_store, jewelry_store, store, point_of_interest, establishment]	37.69525170000001	-121.9252305
+153	The Lodge At Tiburon	ChIJ8WTz_oeEhYAR1M95VSYTlzs	[lodging, point_of_interest, establishment]	37.8748914	-122.4575448
+154	The Plant Cafe Organic	ChIJAf9gS2eAhYARpVckgEzu_XM	[bar, restaurant, food, point_of_interest, establishment]	37.7978158	-122.3960581
+155	The Sandpiper Lodging at the Beach	ChIJ695bZdKThYARKGtcr2TDVYw	[lodging, point_of_interest, establishment]	37.8974867	-122.63844
+156	The Slanted Door	ChIJWTGPjmaAhYARnYsfhjHT8JM	[bar, restaurant, food, point_of_interest, establishment]	37.7961888	-122.394041
+157	The View	ChIJZZ_cOYaAhYARnyfbDrAkvJ8	[restaurant, night_club, bar, food, point_of_interest, establishment]	37.7850079	-122.4043332
+158	Tilden Regional Park	ChIJlR5fQ_F7hYARO9bet3eMP3s	[park, point_of_interest, establishment]	37.89276700000001	-122.242451
+159	Tomales Bay Resort & Marina	ChIJL9WkTpjPhYARqrPmOrlsSG8	[lodging, point_of_interest, establishment]	38.1070379	-122.8628638
+160	Tommaso's Ristorante Italiano	ChIJD-7c9fSAhYARO7hy4de6RBY	[restaurant, food, point_of_interest, establishment]	37.7977983	-122.4052437
+161	Tony's Pizza Napoletana	ChIJHXHcEvGAhYARQPuHNN78s78	[restaurant, food, point_of_interest, establishment]	37.8003257	-122.408985
+162	Torrid	ChIJP5NLubt9j4ARhCgzc0idfvM	[shoe_store, clothing_store, store, point_of_interest, establishment]	37.7281631	-122.4768443
+163	Una Pizza Napoletana	ChIJ_Ziygyd-j4ARtbbdtBPdarg	[restaurant, food, point_of_interest, establishment]	37.7724035	-122.4154535
+164	Universal Cafe	ChIJ___I0jB-j4ARgAaAClz2pl8	[cafe, restaurant, food, point_of_interest, establishment]	37.76061979999999	-122.4105624
+165	Velo Rouge Cafe	ChIJH-SUHkaHhYARMNAz4L9wCks	[cafe, restaurant, food, store, point_of_interest, establishment]	37.7753982	-122.4581756
+166	Vesta	ChIJP0gMtKyjj4ARZUDVtINsnm4	[restaurant, food, point_of_interest, establishment]	37.4867684	-122.2267781
+167	Victoria Manalo Draves Park	ChIJMb8k6YGAhYARcSOLWWOsvoI	[park, point_of_interest, establishment]	37.7770652	-122.4059946
+168	Waterfront Pizza	ChIJ6x0WHCyfj4AREfNcpraaJ4s	[restaurant, food, point_of_interest, establishment]	37.5441753	-122.2706049
+169	Yield	ChIJDw0djbl_j4ARF-oLuBpaXtk	[bar, food, point_of_interest, establishment]	37.75822429999999	-122.3886407
+170	Za Pizza	ChIJZZ4z1uiAhYARd8dViRfgjH8	[restaurant, food, point_of_interest, establishment]	37.7985452	-122.4191528
+171	Zero Zero	ChIJ-VtspYCAhYAR1NlEgy5ye6o	[night_club, bar, restaurant, food, point_of_interest, establishment]	37.7816139	-122.4019456
+172	Zuni Café.	ChIJO7u9q5-AhYARiSSXyWv9eJ8	[restaurant, food, bar, point_of_interest, establishment]	37.77362420000001	-122.4216426
