@@ -509,7 +509,42 @@ print distxy
 
 
 from scipy.cluster.hierarchy import linkage, dendrogram
-R = dendrogram(linkage(distxy, method='complete'))
+
+from scipy.cluster.hierarchy import linkage, dendrogram
+# calculate full dendrogram
+plt.figure(figsize=(25, 10))
+plt.title('Hierarchical Clustering Dendrogram')
+plt.xlabel('index')
+plt.ylabel('distance')
+dendrogram(
+    linkage(distxy),
+    leaf_rotation=90.,  # rotates the x axis labels
+    leaf_font_size=8.,
+    labels=data_filtered.name.values,# font size for the x axis labels
+)
+plt.show()
+
+from scipy.cluster.hierarchy import fcluster
+Z = linkage(distxy)
+thing = fcluster(Z, 5, criterion='maxclust')
+thing
+
+from scipy.cluster.hierarchy import fcluster
+Z = linkage(distxy)
+np.unique(thing, return_counts=True)
+min_points = 5
+k = 1
+while True:
+    this_thing = fcluster(Z, k + 1, criterion='maxclust')
+    thing_counts = np.unique(this_thing, return_counts=True)
+    if thing_counts[1][0] < min_points:
+        break
+    good_thing, good_counts = this_thing, thing_counts
+    k += 1
+
+print k
+print good_thing
+print good_counts
 
 
 nx.clustering(G)
