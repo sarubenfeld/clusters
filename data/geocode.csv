@@ -1,0 +1,8 @@
+,name,place_id,types,lat,long,places
+26,BLUE BOTTLE COFFEE,26,"[cafe, food, store, point_of_interest, establishment]",37.776196,-122.423316,BBC
+31,BROWN SUGAR KITCHEN,31,"[restaurant, food, point_of_interest, establishment]",37.8203279,-122.2887968,BSK
+38,CHEESE BOARD PIZZA,38,"[restaurant, food, point_of_interest, establishment]",37.8798723,-122.2694794,CBP
+142,STABLE CAFE,142,"[cafe, meal_takeaway, restaurant, food, store, point_of_interest, establishment]",37.7632367,-122.4154832,SC
+156,THE SLANTED DOOR,156,"[bar, restaurant, food, point_of_interest, establishment]",37.7961888,-122.394041,TSD
+158,TILDEN REGIONAL PARK,158,"[park, point_of_interest, establishment]",37.892767,-122.242451,TRP
+159,TOMALES BAY RESORT & MARINA,159,"[lodging, point_of_interest, establishment]",38.1070379,-122.8628638,TBRM
