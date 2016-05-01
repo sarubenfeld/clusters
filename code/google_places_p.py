@@ -2,7 +2,7 @@ from googleplaces import GooglePlaces, types, lang
 import json
 import cPickle as pickle
 
-YOUR_API_KEY = 'AIzaSyBsZU_8RbzvjDVT-CW-HIhjnlTk9M-WI4g'
+YOUR_API_KEY = ''
 
 google_places = GooglePlaces(YOUR_API_KEY)
 
