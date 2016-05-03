@@ -366,10 +366,7 @@ with open('walk_to_calculate.csv') as f:
         in_data.append(x)
 f.close()
 
-# data_edges = [[x[0],x[3]] for x in in_data if float(x[-1]) <= minutes]
-#print in_data
-#print x[4]
-#print x[5]
+
 
 data_edges = [(x[0],x[3], {'weight': float(haversine([x[4], x[5]], [x[1],x[2]]))}) for x in in_data if float(x[-1]) <= minutes]
 # Add edges
